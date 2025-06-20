@@ -2,10 +2,8 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@Soft-jkCompany" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Soft-jkCompany"  /></a>
-
-<a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-
-<a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@marioHH"  /></a>
+<a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhonkFL"/></a>
+<a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhonkFL"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😁</h2>
@@ -46,7 +44,7 @@
         <img align="center" width=100% src="https://play-lh.googleusercontent.com/upGBY9jfMGn5rGmjJ8Em6j1v24nWubJ4bhMxE-bDC9B8t0URWh6TvxmQBKqfFBkCGA=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.unishare" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="@Soft-jk"  /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.unishare" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"  /></a>
       <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
