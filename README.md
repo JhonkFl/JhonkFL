@@ -52,7 +52,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://play-lh.googleusercontent.com/upGBY9jfMGn5rGmjJ8Em6j1v24nWubJ4bhMxE-bDC9B8t0URWh6TvxmQBKqfFBkCGA=w416-h235-rw" title="Mi Universidad">
-        <img align="center" width=100% src="https://play-lh.googleusercontent.com/mBNbbejn7XpwGjZk4loUp_azMbNw_8OFI0H1Mkz_EyLoYWhFmGnnPnBGJ-KK2_zv42EK=w416-h235-rw"   alt="IMAGE" /></a>
+        <img align="center" width=100% src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"   alt="IMAGE" /></a>
       </p>
     <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="@Soft-jk"  /></a>
