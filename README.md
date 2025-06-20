@@ -44,19 +44,19 @@
         <img align="center" width=100% src="https://play-lh.googleusercontent.com/upGBY9jfMGn5rGmjJ8Em6j1v24nWubJ4bhMxE-bDC9B8t0URWh6TvxmQBKqfFBkCGA=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.unishare" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"  /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.unishare" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"  /></a>
       <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
   
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://play-lh.googleusercontent.com/upGBY9jfMGn5rGmjJ8Em6j1v24nWubJ4bhMxE-bDC9B8t0URWh6TvxmQBKqfFBkCGA=w416-h235-rw" title="Mi Universidad">
-        <img align="center" width=100% src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"   alt="IMAGE" /></a>
+     <a href="https://play.google.com/store/apps/details?id=com.softjk.uni&pcampaignid=web_share" title="Mi Universidad">
+        <img align="center" width=100% src="https://play-lh.googleusercontent.com/mBNbbejn7XpwGjZk4loUp_azMbNw_8OFI0H1Mkz_EyLoYWhFmGnnPnBGJ-KK2_zv42EK=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="@Soft-jk"  /></a>
-      <a href="https://github.com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"  /></a>
+      <a href="https://github.com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
   
@@ -93,7 +93,7 @@
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonkfl&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
