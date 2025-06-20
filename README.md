@@ -48,14 +48,13 @@
       <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
-  
 <td width="25%" align="center">
     <p align="center">
      <a href="https://play.google.com/store/apps/details?id=com.softjk.uni&pcampaignid=web_share" title="Mi Universidad">
         <img align="center" width=100% src="https://play-lh.googleusercontent.com/mBNbbejn7XpwGjZk4loUp_azMbNw_8OFI0H1Mkz_EyLoYWhFmGnnPnBGJ-KK2_zv42EK=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="	https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"  /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"/></a>
       <a href="https://github.com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
@@ -98,7 +97,7 @@
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JhonkFL&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -108,7 +107,7 @@
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jhonkfl&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
