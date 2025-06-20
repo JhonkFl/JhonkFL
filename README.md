@@ -5,6 +5,11 @@
   <a href="https://www.youtube.com/@Soft-jkCompany" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Soft-jkCompany"  /></a>
 <a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhonkFL"/></a>
 <a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhonkFL"  /></a>
+
+  ![Aditya Kanoi Banner](https://www.mytaskpanel.com/wp-content/uploads/2023/04/consulting-blog-09.webp)
+
+<img alt="Night Coding" src="https://eudigital.pt/wp-content/uploads/2017/09/eudigital-dia-do-programador-3-1024x640.jpg" width='40' align="left"/><h2 align="left">...</h2>
+
   </p>
 <br>
 <h2>Sobre mi 😁</h2>
