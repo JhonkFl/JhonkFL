@@ -15,7 +15,7 @@
 
 💻 Desarrollador apasionado por la programación, especializado en el desarrollo de aplicaciones móviles. 
 
-⭐Experto en Java y en formación con Flutter para crear soluciones multiplataforma. 
+⭐ Experto en Java y en formación con Flutter para crear soluciones multiplataforma. 
 
 💡 He desarrollado aplicaciones como Q-APP y Uni-Search, enfocadas en mejorar la experiencia del usuario a través de la tecnología. 📣
 
