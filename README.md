@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,css,html,js,firebase,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,css,html,js,firebase,vscode,git,github&perline=10" />
   </a>
 </p>
 <br>
