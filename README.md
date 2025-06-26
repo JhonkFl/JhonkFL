@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhonkFL"/></a>
 <a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhonkFL"  /></a>
 
- <a href = "" target="blank"><img align="center" src=" https://static.vecteezy.com/system/resources/thumbnails/010/481/424/small/welcome-letters-banner-stock-banner-vector.jpg" alt="@Soft-jk"  /></a>
+ ![Banner]( https://static.vecteezy.com/system/resources/thumbnails/010/481/424/small/welcome-letters-banner-stock-banner-vector.jpg)
  
   </p>
 <br>
