@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhonkFL"/></a>
 <a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhonkFL"  /></a>
 
-  ![Aditya Kanoi Banner](https://drive.google.com/file/d/1PBNvNG57bG8EM_XLN5y5Iqz_pgppO3g9/view?usp=drivesdk)
+  ![Aditya Kanoi Banner](https://drive.google.com/file/d/1PBNvNG57bG8EM_XLN5y5Iqz_pgppO3g9/view)
 
   </p>
 <br>
