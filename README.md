@@ -58,7 +58,7 @@
         <img align="center" width=100% src="https://play-lh.googleusercontent.com/mBNbbejn7XpwGjZk4loUp_azMbNw_8OFI0H1Mkz_EyLoYWhFmGnnPnBGJ-KK2_zv42EK=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="https://www.canva.com/design/DAFyANsfKVI/AGVnZk5Ao8cuxBUjdsde9w/edit?utm_content=DAFyANsfKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Soft-jk"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"/></a>
       <a href="https://github.com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
@@ -66,7 +66,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href=" " title="Q-APP">
-        <img align="center" width=100% src="https://yt3.googleusercontent.com/39_yj9Za6mHDsZyIQNr1Au--U6NJEkZbK7CbGpt3RPWOpZT0mILmi8Oaqw4qeD0ho51Lu-l2=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"   alt="IMAGE" /></a>
+        <img align="center" width=100% src="https://www.canva.com/design/DAFyANsfKVI/AGVnZk5Ao8cuxBUjdsde9w/edit?utm_content=DAFyANsfKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"   alt="IMAGE" /></a>
       </p>
     <p align="center">
        </a>
