@@ -58,7 +58,7 @@
         <img align="center" width=100% src="https://play-lh.googleusercontent.com/mBNbbejn7XpwGjZk4loUp_azMbNw_8OFI0H1Mkz_EyLoYWhFmGnnPnBGJ-KK2_zv42EK=w416-h235-rw"   alt="IMAGE" /></a>
       </p>
     <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Soft-jk"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.softjk.uni" target="blank"><img align="center" src="https://www.canva.com/design/DAFyANsfKVI/AGVnZk5Ao8cuxBUjdsde9w/edit?utm_content=DAFyANsfKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Soft-jk"/></a>
       <a href="https://github.com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Soft-jk" /></a>
     </p>       
 </td>
