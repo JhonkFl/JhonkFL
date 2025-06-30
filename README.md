@@ -66,7 +66,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href=" " title="Q-APP">
-        <img align="center" width=100% src="https://www.canva.com/design/DAFyANsfKVI/AGVnZk5Ao8cuxBUjdsde9w/edit?utm_content=DAFyANsfKVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"   alt="IMAGE" /></a>
+        <img align="center" width=100% src="https://www.canva.com/design/DAFyANsfKVI/jKxMc1A5MD7bh8Ed4Dkr5Q/view"   alt="IMAGE" /></a>
       </p>
     <p align="center">
        </a>
