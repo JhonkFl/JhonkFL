@@ -66,7 +66,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href=" " title="Q-APP">
-       <img align="center" width=100% src="https://www.canva.com/design/DAFyANsfKVI/jKxMc1A5MD7bh8Ed4Dkr5Q/view?embed"   alt="IMAGE" /</a>
+       <img align="center" width=100% src="https://firebasestorage.googleapis.com/v0/b/q-app-3ecf1.appspot.com/o/Q-APP%2FPoster%20Q-APP.png?alt=media&token=6aeeb291-a12e-4823-9f82-c60ecf7cc121" alt="IMAGE" /</a>
       </p>
     <p align="center">
        </a>
