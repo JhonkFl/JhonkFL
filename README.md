@@ -120,4 +120,4 @@
 </p>        
 <!--- stats (end) -->
 
-![counter](https://komarev.com/ghpvc/?username=JhonkFL)
+![counter](https://komarev.com/ghpvc/?username=JhonkFL&label=Visitas&color=blue)
