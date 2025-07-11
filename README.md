@@ -6,8 +6,9 @@
 <a href="https://www.linkedin.com/in/mario-hern%C3%A1ndez-23198a31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JhonkFL"/></a>
 <a href = "mailto:mariohernandez4018h@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="JhonkFL"  /></a>
 
- ![Banner](https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=170667a&w=0&k=20&c=pRP3VR4jxVynFCNTiJoHKsuij-ofie_PaQRRcVUbAxY=)
-
+  <p align="center">
+   ![Banner](https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=170667a&w=0&k=20&c=pRP3VR4jxVynFCNTiJoHKsuij-ofie_PaQRRcVUbAxY=)
+  </p>
  <a href = "https://jhonkfl.github.io/Mi_Portafolio_Web/" target="blank"><img align="center" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="JhonkFL"/></a>                                                                                                        
 </p>
 
